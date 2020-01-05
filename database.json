@@ -1,0 +1,34 @@
+{
+  "prefix": [
+    {
+      "idGuild": "263295931565211648",
+      "prefixGuild": "<"
+    }
+  ],
+  "salon": [
+    {
+      "idMember": "219734758647791616",
+      "haveChannel": "yes",
+      "userTag": "Alex_#5457",
+      "userNameServ": "Alex_",
+      "delChannel": "op",
+      "canJoin": "non"
+    },
+    {
+      "idMember": "384910666898604052",
+      "haveChannel": "yes",
+      "userTag": "Faischier#6927",
+      "userNameServ": "Faischier",
+      "delChannel": "op",
+      "canJoin": "non"
+    },
+    {
+      "idMember": "310832061462347776",
+      "haveChannel": "yes",
+      "userTag": "Netem ❤#6818",
+      "userNameServ": "Netem ❤",
+      "delChannel": "op",
+      "canJoin": "no"
+    }
+  ]
+}
